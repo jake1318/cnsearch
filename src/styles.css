@@ -1,0 +1,17 @@
+/* Global Styles */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #1a1a1a;
+  color: #e0e0e0;
+}
+
+/* Main container for pages */
+.main-content {
+  padding: 20px;
+}
+
+/* Include your provided CSS for Home, Hero, Combined Section, etc. */
+/* (The full CSS you provided earlier can be pasted here) */
